@@ -1,0 +1,4 @@
+*.iml
+target/*
+anagrams/target/*
+summands/target/*
