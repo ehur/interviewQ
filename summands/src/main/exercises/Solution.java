@@ -10,8 +10,8 @@ public class Solution {
         final int numberToMake = 15;
         int[] result = doTwoNumbersInAnArrayAddUpTo(source, numberToMake);
         printResults(numberToMake, result, source);
-        result = doTwoNumbersInAnArrayAddUpToRefactoredForSpeed(source, numberToMake);
-        printResults(numberToMake, result, source);
+//        result = doTwoNumbersInAnArrayAddUpToRefactoredForSpeed(source, numberToMake);
+//        printResults(numberToMake, result, source);
     }
 
     private static void printResults(int numberToMake, int[] result, int[] source) {
@@ -29,7 +29,7 @@ public class Solution {
     public static int[] doTwoNumbersInAnArrayAddUpTo(int[] source, int numberToMake) {
         int[] result = {0,0};
         for(int i = 0; i < source.length; i++){
-            for(int h = 1; h < source.length - 1; h++){
+            for(int h = 0; h < source.length - 1; h++){
                 if (source[i] + source[h] == numberToMake){
                     result[0] = source[i];
                     result[1] = source[h];
