@@ -1,0 +1,75 @@
+Intro
+=====
+I am senior software... etc.
+employee here for 10 years, contractor for several years before that
+engineering department is responsible for the suite of systems that
+ -- serve ads
+ -- track ad impressions, clicks and conversions
+ -- attribute conversions, calculates commissions earned
+ -- aggregate performance scores of ads, products, websites, advertisers and publishers
+ -- manage financial and client relationship data
+ -- import product catalogs and transaction data
+ -- export datafeeds
+ -- run apis
+ -- stream, aggregate, bucket and store big data
+ -- run continuous code builds, continuous code integration
+ -- continuously strive to improve our code, methods and processes
+ we are building up our teams (squads) in SB and WLV.
+
+Career Goals?
+============
+- why have you submitted your resume? why to CJ Affiliate?
+
+Cultural Fit?
+============
+- what do you love about software development?
+- what frustrates you about software development?
+- which of your projects are you most proud of, and why?
+- pair programming
+- squads
+- tdd
+
+
+(Newb/associate engineer)
+==========================
+java - what best practices have you used, heard of or encountered?
+- design by contract
+- interfaces to encapsulate
+- high cohesion, low coupling
+- inheritance - reuse
+- intention-revealing names
+- test drive, testable code
+- builders, factories, composable methods
+
+javascript - what do you focus on when writing code, style-wise?
+- clear code, easy to read, easy to maintain
+- object vs function?
+
+jQuery - why use it, what do we get from it?
+
+Architecture - name some possible layers of a software architecture?
+- presentation
+- service
+- domain/business
+- persistence
+
+
+SW Engineer
+===========
+OO design principles:
+Abstraction, Encapsulation, Polymorphism and Inheritance
+highly cohesive and loosely couple solution
+Single Responsibility Principle
+Dependency Injection or Inversion principle
+Favor Composition (has a) over Inheritance (is a)
+
+HashMap vs ConcurrentHashMap
+- ConsurrentHashMap thread safe
+- map divided into partitions and only partition is locked when
+- ConcurrentHashMap is more scalable and outperform when number of reader threads outnumber number of writer threads
+- You can make HashMap synchronized by wrapping it with Collections.synchornizedMap(HashMap) which will return a collection which is almost equivalent to Hashtable, where every modification operation locks the whole Map object
+
+Statically typed languages - type known at compile time
+Dynamically typed - type of a variable is interpreted at runtime.
+
+REST
