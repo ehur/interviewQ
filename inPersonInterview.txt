@@ -1,0 +1,37 @@
+Career Goals?
+============
+- why have you submitted your resume? why to CJ Affiliate?
+- what are you looking for in a career/job? What kind of environment? What do you wish to avoid?
+
+Cultural Fit?
+============
+
+teamwork:
+- projects - describe how development evolved - any pairing, any product manager/customer/stakeholder?
+- describe any position where you had to work with a team. What did you like about it? What didn't you like about it?
+
+curiosity:
+- Tell me something you have taught yourself in the last six months.
+- How did you go about teaching yourself this new skill or idea, and what was the result?
+- why did you teach yourself that?
+
+pride in work/work quality
+- how do you assess your work is complete?
+- there are many ways to write code. Do you have personal standards you like to meet when you code? Any popular best practices or just habits
+ you've developed yourself over time?
+- which of your projects are you most proud of, and why?
+
+tenacity
+- Tell me about a particular work-related setback you have faced. How did you deal with it?
+- what do you love about software development?
+- what frustrates you about software development?
+
+initiative
+- What has been the best idea you have come up with during your professional career?
+
+location
+- you are in X - why did you apply for a position in SB?
+
+- pair programming
+- squads
+- tdd
