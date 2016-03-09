@@ -67,5 +67,13 @@ function findTwoMaxR(someNumbers) {
 var actual=findTwoMax([1,5,3,7]);
 var expected=[7,5];
 
+actual=findTwoMax([1,2,3,4]);
+expected=[4,3];
+
+actual=findTwoMax([4,3,2,1]);
+expected=[4,3];
+
+actual=findTwoMax([-1,-5,-3,-7]);
+expected=[-1,-3];
 
 console.log("GOT: " + actual + " EXPECTED: " + expected);
